@@ -1,0 +1,159 @@
+[33mcommit 569035f92bc638e5bcf1a0d2fe71e2e258c058e7[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Riko-04 <echoge11@gmail.com>
+Date:   Sat Apr 13 23:43:19 2024 +0300
+
+    Completes the lab
+
+[33mcommit d78cda3d4cad4e0043c599f512a4a4e951910035[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Liz Burton <liz.burton147@gmail.com>
+Date:   Mon Nov 20 10:04:01 2023 -0500
+
+    AUTO: update .canvas file
+
+[33mcommit d59d9242d67c43118d2f191c901113609c4668c9[m
+Author: Liz Burton <liz.burton147@gmail.com>
+Date:   Fri Nov 17 15:06:19 2023 -0500
+
+    AUTO: replace github workflow
+
+[33mcommit 10cde041e3d00f1b00547c49e30d226d55598516[m
+Author: Liz Burton <liz.burton147@gmail.com>
+Date:   Sat Jan 14 14:15:54 2023 -0500
+
+    Add codegrade submit instructions
+
+[33mcommit 89e25ee2b8faf32125161230332092055c9bc7b1[m
+Author: Liz Burton <liz.burton147@gmail.com>
+Date:   Sat Jan 14 12:13:11 2023 -0500
+
+    Add fake test for codegrade
+
+[33mcommit 2bf9349c3dd258fa228886da0ca99f39203c50f2[m
+Author: Liz Burton <liz.burton147@gmail.com>
+Date:   Sat Jan 14 12:12:38 2023 -0500
+
+    add gitignore
+
+[33mcommit 3a2a60a06305298d807795a41b1203463be00a65[m
+Author: Jerrica Bobadilla <jbobadilla27@gmail.com>
+Date:   Thu Dec 22 11:31:32 2022 -0800
+
+    update workflow
+
+[33mcommit 7c2c459b1170f76ce7ce6156e1c1e7ee98cb86f1[m
+Author: Liz Burton <liz.burton147@gmail.com>
+Date:   Fri Dec 16 16:07:38 2022 -0500
+
+    update canvas file
+
+[33mcommit da693bd584fecdd39d332dbd97c60d420e6f0ab7[m
+Author: Liz Burton <liz.burton147@gmail.com>
+Date:   Fri Dec 16 16:07:36 2022 -0500
+
+    remove canvas file
+
+[33mcommit 08a5ed9b94b249601ae5c1f8196b0d91fac9329f[m
+Author: Liz Burton <liz.burton147@gmail.com>
+Date:   Wed Mar 23 12:19:47 2022 -0400
+
+    Change title
+
+[33mcommit 629ee14842f562a86e65f68d7b4588e2b9eb5807[m
+Merge: 4d7b2b9 67fee93
+Author: Gracie <m.graciemcguire@gmail.com>
+Date:   Wed Dec 8 16:50:22 2021 -0500
+
+    linter rules
+
+[33mcommit 4d7b2b9da1519ac5821efd63fcd2843a0516777a[m
+Author: Gracie <m.graciemcguire@gmail.com>
+Date:   Wed Dec 8 16:47:10 2021 -0500
+
+    linter rules
+
+[33mcommit 67fee93909831dcf879c35244993f13e0f26b3c6[m
+Merge: 5e80aa2 8d5e627
+Author: Ian Hollander <39830572+ihollander@users.noreply.github.com>
+Date:   Mon Nov 29 17:11:21 2021 -0500
+
+    Merge pull request #2 from learn-co-curriculum/ian-patch
+    
+    Fix typo
+
+[33mcommit 8d5e62726cda672bd6f45d2c06b3afedbaac5795[m
+Author: ihollander <ianholla@gmail.com>
+Date:   Mon Nov 29 17:11:00 2021 -0500
+
+    Fix typo
+
+[33mcommit 5e80aa22271532a003686f7132771359a6e0dece[m
+Author: Ian Hollander <39830572+ihollander@users.noreply.github.com>
+Date:   Wed Sep 1 06:14:23 2021 -0400
+
+    Added Learning Goals
+
+[33mcommit 8c42650a03484fda58bc6181e89cedbe723ce72e[m
+Author: Liz Burton <liz.burton147@gmail.com>
+Date:   Tue Jul 6 09:49:12 2021 -0400
+
+    AUTO: Added .canvas file and github workflow
+
+[33mcommit 16db7c229931e99bad76c47a6ab624235b957eee[m
+Author: Liz Burton <liz.burton147@gmail.com>
+Date:   Thu Jun 10 14:13:18 2021 -0400
+
+    Update title
+
+[33mcommit 4594090c40678c3794d84c2ff45be54d15042c28[m
+Author: Robert W Cobb <rwcobbjr@gmail.com>
+Date:   Wed Jan 22 16:47:55 2020 -0500
+
+    Fix .learn file
+
+[33mcommit 591f7b5163ff13a436ce001a4682f61445cd4d9c[m
+Author: maxwellbenton <maxwellbenton@gmail.com>
+Date:   Mon Jul 29 15:38:31 2019 -0400
+
+    fixes typo
+
+[33mcommit bb28e05c529cd31345bcee47505e7e45282049f1[m
+Author: maxwellbenton <maxwellbenton@gmail.com>
+Date:   Mon Jun 10 18:34:24 2019 -0400
+
+    add .learn file
+
+[33mcommit b8724f0155aa632413c5f103e4921828ff6d4165[m
+Author: maxwellbenton <maxwellbenton@gmail.com>
+Date:   Mon Jun 10 18:15:52 2019 -0400
+
+    moves index.js to folder for learn code-along
+
+[33mcommit 13631ff6666cf465da76aa9e5c63e7043568c9ef[m
+Author: maxwellbenton <maxwellbenton@gmail.com>
+Date:   Mon Jun 10 18:15:30 2019 -0400
+
+    formats readme
+
+[33mcommit 4690780aa26f0ff175b4914f0109070b349795be[m
+Author: Erin Hoffman <erinrhof@uw.edu>
+Date:   Fri Jun 7 15:48:48 2019 -0700
+
+    Update README.md
+
+[33mcommit ce180ecb58c37b1039877111e580b7548fd9d27f[m
+Author: Steve Geluso <stevegeluso@gmail.com>
+Date:   Fri Jun 7 13:47:06 2019 -0700
+
+    making custom header requirement more obvious
+
+[33mcommit 0f209ad9296970e6ff58f7234f6598e09e515655[m
+Author: nikymorg <nicole.morgan@gmail.com>
+Date:   Fri Oct 12 17:10:47 2018 -0400
+
+    update readme and html
+
+[33mcommit a4842f02769b7b7eec76f8b68cc105c98c2e6489[m
+Author: nikymorg <nicole.morgan@gmail.com>
+Date:   Fri Oct 12 16:45:26 2018 -0400
+
+    initial commit
